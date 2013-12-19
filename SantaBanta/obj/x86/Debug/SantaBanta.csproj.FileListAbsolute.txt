@@ -14,3 +14,5 @@ E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.Propertie
 E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.csproj.GenerateResource.Cache
 E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.exe
 E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.pdb
+E:\Nisarg Shah\Projects\SantaBanta\Santa-Banta-Image-Downloader\trunk\SantaBanta\obj\x86\Debug\SantaBanta.exe
+E:\Nisarg Shah\Projects\SantaBanta\Santa-Banta-Image-Downloader\trunk\SantaBanta\obj\x86\Debug\SantaBanta.pdb
