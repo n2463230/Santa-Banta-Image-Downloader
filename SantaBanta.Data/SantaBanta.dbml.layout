@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SantaBantaDataContext">
+  <DataContextMoniker Name="/SantaBantaDataContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2876b744-a517-41c2-b6d6-04a9d727698b" absoluteBounds="1.375, 1, 2, 1.3862939453125">
+      <DataClassMoniker Name="/SantaBantaDataContextDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="130432ad-65b6-4a5f-a9c1-9ea9ff3ef72c" absoluteBounds="1.3899999999999997, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7bc4b922-f908-4125-8caf-e1a360f044e0" absoluteBounds="1.375, 2.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/SantaBantaDataContextDataContext/Subcategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4ff9c917-b410-4c62-a38f-882dc3d2e1b0" absoluteBounds="1.3899999999999997, 3.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.375 : 2.3862939453125); (2.375 : 2.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SantaBantaDataContextDataContext/Category/Category_Subcategory" />
+      <nodes>
+        <classShapeMoniker Id="2876b744-a517-41c2-b6d6-04a9d727698b" />
+        <classShapeMoniker Id="7bc4b922-f908-4125-8caf-e1a360f044e0" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="63bfc346-d47e-411e-bacc-bed2b2057395" absoluteBounds="4, 1.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/SantaBantaDataContextDataContext/DownloadInformation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b152caa5-c31b-453c-bf31-e0d42a563fa5" absoluteBounds="4.0150000000000006, 2.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.375 : 2.13064697265625); (4 : 2.13064697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SantaBantaDataContextDataContext/Category/Category_DownloadInformation" />
+      <nodes>
+        <classShapeMoniker Id="2876b744-a517-41c2-b6d6-04a9d727698b" />
+        <classShapeMoniker Id="63bfc346-d47e-411e-bacc-bed2b2057395" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.375 : 3.13544840494792); (4 : 3.13544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SantaBantaDataContextDataContext/Subcategory/Subcategory_DownloadInformation" />
+      <nodes>
+        <classShapeMoniker Id="7bc4b922-f908-4125-8caf-e1a360f044e0" />
+        <classShapeMoniker Id="63bfc346-d47e-411e-bacc-bed2b2057395" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

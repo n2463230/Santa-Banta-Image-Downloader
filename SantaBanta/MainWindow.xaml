@@ -1,0 +1,44 @@
+﻿<Window x:Class="SantaBanta.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\Images\Pictures-icon.png"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="87"></RowDefinition>
+            <RowDefinition Height="88"></RowDefinition>
+            <RowDefinition Height="87"></RowDefinition>
+            <RowDefinition Height="88"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="132"></ColumnDefinition>
+            <ColumnDefinition Width="131"></ColumnDefinition>
+            <ColumnDefinition Width="131"></ColumnDefinition>
+            <ColumnDefinition Width="131"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Categories: " Margin="0,10,0,10"/>
+        <ComboBox Grid.Row="0" Grid.Column="1"  Width="100px" Height="23px" Margin="0,10,0,10" Name="cmbCategories" ItemsSource="{DynamicResource Categories}" 
+            DisplayMemberPath="CategoryName" 
+            SelectedValuePath="CategoryURL" 
+            SelectedValue="{Binding Categories}" VerticalAlignment="Top"  />
+        <Button Grid.Row="0" Grid.Column="2" Width="100px" Height="23px" Click="Button_Click" VerticalAlignment="Top" Margin="0,10,0,10" >
+            <TextBlock Text="List All" ></TextBlock>
+        </Button>
+
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Sub Categories: " Margin="0,10,0,10"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" Width="100px" Height="23px" Margin="0,10,0,10" Name="cmbSubCategories" ItemsSource="{DynamicResource CategoriesContent}" 
+            DisplayMemberPath="Name" 
+            SelectedValuePath="URL" 
+            SelectedValue="{Binding CategoriesContent}" VerticalAlignment="Top" />
+        <Button Grid.Row="1" Grid.Column="2" Width="100px" Height="23px" Name="btnSubCategories" Click="BtnDownloadClick" VerticalAlignment="Top" Margin="0,10,0,10" >
+            <TextBlock Text="Download All from selected Category" ></TextBlock>
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="3" Width="100px" Height="23px" Name="btnAllCategoriesAllDownload" Click="BtnDownloadAllClick" VerticalAlignment="Top" Margin="0,10,0,10" >
+            <TextBlock Text="Download All" ></TextBlock>
+        </Button>
+        
+        <ProgressBar Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="4" Name="prgCategory" Margin="10,5,10,5" Height="23px" />
+    </Grid>
+</Window>

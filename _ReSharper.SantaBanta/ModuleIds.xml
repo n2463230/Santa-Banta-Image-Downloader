@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="DED44EDC-BD28-46AA-BADC-01970B89D090" ModuleId="SantaBanta" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System" />
+  <Module PersistentId="154B8D16-62C6-4F28-8C96-D202904D92E3" ModuleId="SantaBanta.BLL" />
+  <Module PersistentId="769B011B-7243-47DF-96D9-ACF62BFC09C7" ModuleId="SantaBanta.Data" />
+  <Module PersistentId="D7D9EA9D-F3B5-46B9-8381-8ADD73ABF520" ModuleId="SantaBantaEntity" />
+</Modules>

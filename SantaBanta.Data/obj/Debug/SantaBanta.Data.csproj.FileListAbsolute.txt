@@ -1,0 +1,8 @@
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\bin\Debug\SantaBanta.Data.dll.config
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\bin\Debug\SantaBanta.Data.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\bin\Debug\SantaBanta.Data.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\bin\Debug\SantaBantaEntity.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\bin\Debug\SantaBantaEntity.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\obj\Debug\SantaBanta.Data.csprojResolveAssemblyReference.cache
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\obj\Debug\SantaBanta.Data.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.Data\obj\Debug\SantaBanta.Data.pdb

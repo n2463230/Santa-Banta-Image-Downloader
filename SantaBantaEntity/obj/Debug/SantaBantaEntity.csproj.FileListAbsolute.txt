@@ -1,0 +1,5 @@
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaEntity\bin\Debug\SantaBantaEntity.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaEntity\bin\Debug\SantaBantaEntity.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaEntity\obj\Debug\SantaBantaEntity.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaEntity\obj\Debug\SantaBantaEntity.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaEntity\obj\Debug\SantaBantaEntity.csprojResolveAssemblyReference.cache

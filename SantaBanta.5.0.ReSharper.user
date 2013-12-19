@@ -1,0 +1,346 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="769B011B-7243-47DF-96D9-ACF62BFC09C7/f:SantaBanta.designer.cs" caret="2968" fromTop="19" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml" caret="2633" fromTop="9" />
+      <File id="D7D9EA9D-F3B5-46B9-8381-8ADD73ABF520/f:Category.cs" caret="400" fromTop="17" />
+      <File id="769B011B-7243-47DF-96D9-ACF62BFC09C7/f:WebSite.cs" caret="7031" fromTop="26" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="2771" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="769B011B-7243-47DF-96D9-ACF62BFC09C7/f:WebSite.cs" caret="4576" fromTop="12" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml" caret="194" fromTop="2" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="10" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml" caret="2670" fromTop="9" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="15" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="7" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="16" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="20" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="26" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="22" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="20" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="23" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="5" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="12" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="18" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="3" />
+      <File id="769B011B-7243-47DF-96D9-ACF62BFC09C7/f:WebSite.cs" caret="7021" fromTop="23" />
+      <File id="769B011B-7243-47DF-96D9-ACF62BFC09C7/f:WebSite.cs" caret="6632" fromTop="16" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="27" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="18" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="19" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="14187" fromTop="24" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="5204" fromTop="14" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="4892" fromTop="9" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="6088" fromTop="20" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="1980" fromTop="18" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="18409" fromTop="28" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="18199" fromTop="26" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="1551" fromTop="18" />
+      <File id="DED44EDC-BD28-46AA-BADC-01970B89D090/f:MainWindow.xaml.cs" caret="3366" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="BaselineAlignment`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="RetrieveData`0" priority="1" />
+      <Item value="string" priority="37" />
+      <Item value="cmbCategories" priority="2" />
+      <Item value="List`0" priority="11" />
+      <Item value="return" priority="9" />
+      <Item value="new" priority="21" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="stringBuilder" priority="0" />
+      <Item value="retrievedHTML" priority="18" />
+      <Item value="public" priority="7" />
+      <Item value="class" priority="2" />
+      <Item value="prop" priority="5" />
+      <Item value="Categories`0" priority="4" />
+      <Item value="List&lt;Categories&gt;" priority="1" />
+      <Item value="category" priority="9" />
+      <Item value="static" priority="1" />
+      <Item value="url" priority="2" />
+      <Item value="ToList`1" priority="5" />
+      <Item value="retrievedURL" priority="0" />
+      <Item value="int" priority="14" />
+      <Item value="startIndex" priority="6" />
+      <Item value="endIndex" priority="2" />
+      <Item value="ahrefEndTag" priority="0" />
+      <Item value="retrievedData" priority="0" />
+      <Item value="startdiv" priority="2" />
+      <Item value="categoriesList" priority="0" />
+      <Item value="Categories" priority="0" />
+      <Item value="CategoriesContent`0" priority="6" />
+      <Item value="categoriesContents" priority="6" />
+      <Item value="null" priority="1" />
+      <Item value="strList" priority="0" />
+      <Item value="List&lt;CategoriesContent&gt;" priority="2" />
+      <Item value="categoriesContent" priority="6" />
+      <Item value="CategoriesContent" priority="0" />
+      <Item value="RetrieveHREFfromAnchorTag`0" priority="0" />
+      <Item value="partialHREF" priority="1" />
+      <Item value="closingAnchortag" priority="0" />
+      <Item value="startIndexValue" priority="1" />
+      <Item value="cmbSubCategories" priority="4" />
+      <Item value="DownloadList`0" priority="2" />
+      <Item value="downloadLists" priority="3" />
+      <Item value="foreach" priority="5" />
+      <Item value="try" priority="1" />
+      <Item value="downloadList" priority="0" />
+      <Item value="downloadURL" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="if" priority="6" />
+      <Item value="break" priority="2" />
+      <Item value="else" priority="4" />
+      <Item value="retrievedHTML1" priority="0" />
+      <Item value="startingPoint" priority="0" />
+      <Item value="endingPoint" priority="0" />
+      <Item value="File`0" priority="4" />
+      <Item value="System" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="WebClient`0" priority="2" />
+      <Item value="webClient" priority="4" />
+      <Item value="WebClient" priority="3" />
+      <Item value="DownloadImageUrl" priority="8" />
+      <Item value="Path" priority="0" />
+      <Item value="filePath" priority="9" />
+      <Item value="i" priority="5" />
+      <Item value="Directory`0" priority="0" />
+      <Item value="html" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="Uri" priority="0" />
+      <Item value="c_DownloadFileCompleted`0" priority="0" />
+      <Item value="sender" priority="2" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="List&lt;WebClient&gt;" priority="0" />
+      <Item value="wc" priority="0" />
+      <Item value="webClients" priority="0" />
+      <Item value="counter" priority="1" />
+      <Item value="subcategoryCounter" priority="2" />
+      <Item value="Button_Click`0" priority="0" />
+      <Item value="continue" priority="1" />
+      <Item value="btnDownload_Click`0" priority="0" />
+      <Item value="categorieses" priority="7" />
+      <Item value="categoriese" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="prgCategory" priority="0" />
+      <Item value="prgSubCategory" priority="1" />
+      <Item value="urlToFetch" priority="1" />
+      <Item value="name" priority="0" />
+      <Item value="categoriesContentsToBind" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="val" priority="0" />
+      <Item value="subcategoryURL" priority="1" />
+      <Item value="rewrittenURL" priority="1" />
+      <Item value="k" priority="1" />
+      <Item value="enum" priority="0" />
+      <Item value="Enum`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="SantaBantaDataContextDataContext`0" priority="0" />
+      <Item value="santaBantaDataContextDataContext" priority="1" />
+      <Item value="SantaBantaDataContextDataContext" priority="0" />
+      <Item value="Table&lt;Category&gt;" priority="0" />
+      <Item value="categories" priority="3" />
+      <Item value="Category`0" priority="3" />
+      <Item value="Category" priority="0" />
+      <Item value="categoryName" priority="1" />
+      <Item value="categoryURL" priority="0" />
+      <Item value="santaBantaDataContext" priority="5" />
+      <Item value="DatabaseStatus`0" priority="0" />
+      <Item value="webSite" priority="3" />
+      <Item value="WebSite" priority="1" />
+      <Item value="List" priority="2" />
+      <Item value="SantaBanta" priority="1" />
+      <Item value="from" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="Class`0" priority="0" />
+      <Item value="Entity`0" priority="0" />
+      <Item value="d" priority="2" />
+      <Item value="WebSite`0" priority="2" />
+      <Item value="categoriesExistanceCheck" priority="0" />
+      <Item value="FunctionCallStatus`0" priority="1" />
+      <Item value="Subcategory`0" priority="1" />
+      <Item value="SubcategoryName" priority="0" />
+      <Item value="SubcategoryURL" priority="0" />
+      <Item value="SantaBantaEntity" priority="1" />
+      <Item value="DownloadImageName" priority="0" />
+      <Item value="DownloadInformation`0" priority="0" />
+      <Item value="functionCallStatus" priority="1" />
+      <Item value="DataAlreadyExists" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="thread" priority="1" />
+      <Item value="Thread" priority="0" />
+      <Item value="FetchSubCategories`0" priority="0" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="mainWindow" priority="1" />
+      <Item value="MainWindow" priority="0" />
+      <Item value="imageName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="ItemsSource" priority="3" />
+      <Item value="SelectedValue" priority="2" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="SelectedIndex" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Remove`0" priority="2" />
+      <Item value="IndexOf`0" priority="7" />
+      <Item value="Select`2" priority="0" />
+      <Item value="Substring`0" priority="2" />
+      <Item value="ToCharArray`0" priority="5" />
+      <Item value="Contains`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Categories">
+      <Item value="CategoryURL" priority="0" />
+      <Item value="CategoryName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="8" />
+      <Item value="Add`0" priority="4" />
+      <Item value="AddRange`0" priority="0" />
+      <Item value="Distinct`1" priority="0" />
+      <Item value="OrderBy`2" priority="1" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="Where`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.CategoriesContent">
+      <Item value="URL" priority="0" />
+      <Item value="Name" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="JetBrains.ReSharper.Feature.Services.Xaml.CodeCompletion.XamlBasicCompletionContext">
+      <Item value="ctx" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.DownloadList">
+      <Item value="DownloadImageName" priority="0" />
+      <Item value="DownloadImageURL" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadData`0" priority="0" />
+      <Item value="DownloadFile`0" priority="3" />
+      <Item value="DownloadFileAsync`0" priority="0" />
+      <Item value="DownloadFileCompleted" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetExtension`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Exists`0" priority="0" />
+      <Item value="CreateDirectory`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="Delay`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ProgressBar">
+      <Item value="Maximum" priority="2" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="2" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Data.SantaBantaDataContextDataContext">
+      <Item value="Categories" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Data.Category">
+      <Item value="CategoryName" priority="1" />
+      <Item value="CategoryURL" priority="1" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Data.SantaBantaDataContext">
+      <Item value="SubmitChanges`0" priority="0" />
+      <Item value="Categories" priority="2" />
+      <Item value="Subcategories" priority="1" />
+      <Item value="DownloadInformations" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Data.WebSite">
+      <Item value="AddCategories`0" priority="0" />
+      <Item value="AddSubCategoriesCategories`0" priority="0" />
+      <Item value="AddDownloadLinks`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Class.CategoriesContent">
+      <Item value="Name" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="URL" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Class.Categories">
+      <Item value="CategoryName" priority="0" />
+      <Item value="CategoryURL" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.Table`1">
+      <Item value="InsertOnSubmit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SantaBanta.Data.WebSite">
+      <Item value="GetAllCategories`0" priority="0" />
+      <Item value="GetAllSubCategories`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBantaEntity.Categories">
+      <Item value="CategoryName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SantaBantaEntity.FunctionCallStatus">
+      <Item value="DataAlreadyExists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Data.Subcategory">
+      <Item value="SubcategoryName" priority="3" />
+      <Item value="SubcategoryURL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBantaEntity.CategoriesContent">
+      <Item value="Name" priority="0" />
+      <Item value="URL" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBantaEntity.DownloadList">
+      <Item value="DownloadImageURL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SantaBanta.Data.DownloadInformation">
+      <Item value="ImageName" priority="2" />
+      <Item value="ImageURL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

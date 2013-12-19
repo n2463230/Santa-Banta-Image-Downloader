@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SantaBanta" Class="SantaBantaDataContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ITMC68\SQLEXPRESS;Initial Catalog=SantaBanta;Integrated Security=True" SettingsObjectName="SantaBanta.Data.Properties.Settings" SettingsPropertyName="SantaBantaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Category" Member="Categories">
+    <Type Name="Category">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CategoryName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CategoryURL" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Category_Subcategory" Member="Subcategories" ThisKey="Id" OtherKey="CategoryId" Type="Subcategory" />
+      <Association Name="Category_DownloadInformation" Member="DownloadInformations" ThisKey="Id" OtherKey="CategoryId" Type="DownloadInformation" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Subcategory" Member="Subcategories">
+    <Type Name="Subcategory">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CategoryId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SubcategoryName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SubcategoryURL" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Subcategory_DownloadInformation" Member="DownloadInformations" ThisKey="Id" OtherKey="SubcategoryId" Type="DownloadInformation" />
+      <Association Name="Category_Subcategory" Member="Category" ThisKey="CategoryId" OtherKey="Id" Type="Category" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DownloadInformation" Member="DownloadInformations">
+    <Type Name="DownloadInformation">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CategoryId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SubcategoryId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ImageName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ImageURL" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Category_DownloadInformation" Member="Category" ThisKey="CategoryId" OtherKey="Id" Type="Category" IsForeignKey="true" />
+      <Association Name="Subcategory_DownloadInformation" Member="Subcategory" ThisKey="SubcategoryId" OtherKey="Id" Type="Subcategory" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

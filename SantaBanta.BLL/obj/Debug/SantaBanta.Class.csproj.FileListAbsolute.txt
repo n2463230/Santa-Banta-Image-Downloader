@@ -1,0 +1,4 @@
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.BLL\bin\Debug\SantaBanta.BLL.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.BLL\bin\Debug\SantaBanta.BLL.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.BLL\obj\Debug\SantaBanta.BLL.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta.BLL\obj\Debug\SantaBanta.BLL.pdb

@@ -1,0 +1,16 @@
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\bin\Debug\SantaBanta.exe
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\bin\Debug\SantaBanta.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\bin\Debug\SantaBanta.Data.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\bin\Debug\SantaBantaEntity.dll
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\bin\Debug\SantaBanta.Data.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\bin\Debug\SantaBantaEntity.pdb
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.csprojResolveAssemblyReference.cache
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\MainWindow.baml
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\MainWindow.g.cs
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\App.g.cs
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta_MarkupCompile.cache
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.g.resources
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.Properties.Resources.resources
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.csproj.GenerateResource.Cache
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.exe
+E:\Nisarg Shah\Projects\SantaBanta\SantaBanta\obj\x86\Debug\SantaBanta.pdb

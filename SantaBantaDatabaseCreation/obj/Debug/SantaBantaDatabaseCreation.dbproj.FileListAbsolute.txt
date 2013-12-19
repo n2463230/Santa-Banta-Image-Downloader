@@ -1,0 +1,8 @@
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\sql\debug\SantaBantaDatabaseCreation.deploymanifest
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\sql\debug\SantaBantaDatabaseCreation.dbschema
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\obj\Debug\SantaBantaDatabaseCreation.dbschema
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\sql\debug\SantaBanta_Script.PreDeployment.sql
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\sql\debug\SantaBanta_Script.PostDeployment.sql
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\sql\debug\SantaBanta_Database.sqlsettings
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\sql\debug\SantaBanta_Database.sqldeployment
+E:\Nisarg Shah\Projects\SantaBanta\SantaBantaDatabaseCreation\sql\debug\SantaBanta_Database.sqlcmdvars
